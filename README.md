@@ -1,5 +1,7 @@
 
 ### `Intro`
+![GitHub Actions status | publish](https://github.com/anzerr/color.util/workflows/publish/badge.svg)
+
 Color transformation util between HSL, HSV, HUE and RGB
 
 [logo]: https://raw.githubusercontent.com/anzerr/color.util/master/example.bmp "Example"
