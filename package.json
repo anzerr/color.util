@@ -1,6 +1,6 @@
 {
 	"name": "color.util",
-	"version": "1.0.12",
+	"version": "1.0.13",
 	"description": "Color transformation util between HSL, HSV, HUE and RGB",
 	"keywords": [
 		"color",
